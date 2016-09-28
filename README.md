@@ -8,6 +8,8 @@ ABProのロゴを募集してた。でも、「ABproは普通じゃないプロ�
 作ろうとしたがいいアイデアなくてABpro発表に間に合わず。  
 今頃になってしまったが作りたかったから作った。  
 
+<img src="https://github.com/wmrn/ABPro2016_logo/blob/master/title.png" title="logo"/>  
+
 ## 説明
 まず、画像にexif情報を付け加えた。  
 開催場所の緯度・軽度、作成された時間を会場時間、最終更新時間？を終了時間に編集。  
