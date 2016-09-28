@@ -11,7 +11,7 @@ ABProのロゴを募集してた。でも、「ABproは普通じゃないプロ�
 ## 説明
 まず、画像にexif情報を付け加えた。  
 開催場所の緯度・軽度、作成された時間を会場時間、最終更新時間？を終了時間に編集。  
-<img src="https://github.com/wmrn/ABPro2016_logo/blob/master/data/exif.png" title="exif" width="322" height="432" />  
+<img src="https://github.com/wmrn/ABPro2016_logo/blob/master/data/exif.png" title="exif"/>  
 次に画像のバイナリデータの後ろにProcessingのファイルをzipで圧縮させたバイナリを付加する。  
 これはctf4gで教えていただいたものを採用した。  
 ＜参考＞<http://hp.vector.co.jp/authors/VA032610/JPEGFormat/StructureOfJPEG.htm>  
